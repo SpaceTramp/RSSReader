@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FluxRSS</string>
+    <string name="image_suivante">Image suivante</string>
+    <string name="image_precedente">Image précédente</string>
+    <string name="test_image_title">Titre</string>
+    <string name="test_image_date">Date</string>
+    <string name="description_image">Description de l\'image</string>
+    <string name="test_image">Image</string>
+    <string name="test_image_description">Description</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_sync">Synchronization</string>
+    <string name="hors_connection">Image non disponible hors connexion</string>
+    <string name="sync_success">Synchronisation effectuée</string>
+    <string name="sync_failed">Pas de connection internet</string>
+</resources>
