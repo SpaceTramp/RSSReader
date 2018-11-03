@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.home.HomeView">
+
+    <item
+        android:id="@+id/action_previous"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="@string/action_previous"
+
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_next"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:title="@string/action_next"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_sync"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="@string/action_sync"
+        app:showAsAction="ifRoom" />
+
+</menu>
